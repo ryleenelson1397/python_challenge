@@ -41,6 +41,6 @@ with open(csvpath) as csvfile:
     
     #skipping header row and defining net profit/loss over entire data set
     #csv_header = next(csvreader)
-    #net_profit_or_loss = sum
+    #net_profit_or_loss = sum(value for )
     
 
